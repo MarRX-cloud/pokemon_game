@@ -1,0 +1,4 @@
+C:\Users\marwa\source\repos\GameOOP_Project\GameOOP_Project\obj\Debug\net10.0\GameOOP_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\source\repos\GameOOP_Project\GameOOP_Project\obj\Debug\net10.0\GameOOP_Project.AssemblyInfoInputs.cache
+C:\Users\marwa\source\repos\GameOOP_Project\GameOOP_Project\obj\Debug\net10.0\GameOOP_Project.AssemblyInfo.cs
+C:\Users\marwa\source\repos\GameOOP_Project\GameOOP_Project\obj\Debug\net10.0\GameOOP_Project.csproj.CoreCompileInputs.cache
